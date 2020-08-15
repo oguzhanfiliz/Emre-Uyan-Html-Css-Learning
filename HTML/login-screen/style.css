@@ -5,3 +5,9 @@ h1{
     color:cyan;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+    
+.deg{
+  
+   border: 7px outset darkblue;
+   background-color: honeydew;
+}
